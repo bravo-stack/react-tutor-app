@@ -1,9 +1,9 @@
 import Modal from "./Modal"
 
-const Backdrop = () => {
+const Backdrop = ({login}) => {
   return (
-    <div>
-        <Modal />
+    <div className="backdrop">
+        <Modal name={login.username} email={login.email} />
     </div>
   )
 }
