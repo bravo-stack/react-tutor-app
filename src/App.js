@@ -5,9 +5,6 @@ import MultipleInputForm from "./components/MultipleInputForm";
 
 function App() {
 
-    // FORM NAME
-    const [name, setName] = useState("")
-
     // MULTIPLE INPUT FORM DATA/STATE
     const [logins, setLogins] = useState({})
 
