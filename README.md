@@ -30,4 +30,4 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### Adding Feature/Tutorials on:
-`Passenger counter`, `single form input`, `multiple form inputs`
+`Passenger counter`, `react form validation`
