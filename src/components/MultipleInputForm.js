@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 const MultipleInputForm = ({setLoginDetails, showModal}) => {
+    
     // FORM STATE
     const [logins, setLogins] = useState({})
 
